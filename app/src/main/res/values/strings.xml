@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FindMovie</string>
+    <string name="movie_page_title">Chercher vos films favoris</string>
+    <string name="movie_title">Titre du Film</string>
+</resources>
